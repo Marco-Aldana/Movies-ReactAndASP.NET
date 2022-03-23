@@ -44,3 +44,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+## Console commands to execute
+npx create-react-app react-peliculas --template typescript
+npm i bootstrap@4.6              
+npm install react-router-dom@5.2   
+npm i --save-dev @types/react-router-dom
+npm start
